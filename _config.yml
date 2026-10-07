@@ -1,0 +1,30 @@
+title: Kumar Kilambi
+description: Product and strategy work from discovery to prototype to recommendation.
+url: "https://k-kilambi.github.io"
+baseurl: ""
+markdown: kramdown
+permalink: pretty
+timezone: America/Los_Angeles
+
+exclude:
+  - PLAN.md
+  - README.md
+  - replit.md
+  - .gitignore
+  - .replit
+  - .replitignore
+  - .agents
+  - .cache
+  - .conversation
+  - .local
+  - node_modules
+  - artifacts
+  - lib
+  - scripts
+  - vendor
+  - package.json
+  - package-lock.json
+  - pnpm-lock.yaml
+  - pnpm-workspace.yaml
+  - tsconfig.json
+  - tsconfig.base.json
