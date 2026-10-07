@@ -1,0 +1,14 @@
+{% include head.html %}
+  <body class="page-{{ page.name | replace: '.md', '' | slugify }}">
+    <a class="skip-link" href="#main-content">Skip to content</a>
+    <div class="site-shell">
+      {% include site-header.html %}
+      <main id="main-content" class="main-content">
+        <article class="page-content">
+          {{ content }}
+        </article>
+      </main>
+      {% include site-footer.html %}
+    </div>
+  </body>
+</html>
