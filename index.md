@@ -14,6 +14,7 @@ permalink: /
 <div class="button-row">
   <a class="button" href="{{ '/work-experience/' | relative_url }}">Explore my work</a>
   <a class="text-link" href="{{ '/about/' | relative_url }}">A little about me <span aria-hidden="true">→</span></a>
+  <a class="button" href="https://www.linkedin.com/in/kumar-kilambi/" target="_blank" rel="noopener noreferrer">View LinkedIn</a>
 </div>
 
 <dl class="quick-facts" aria-label="A few quick facts">
