@@ -7,6 +7,7 @@ permalink: pretty
 timezone: America/Los_Angeles
 
 exclude:
+  - change.md
   - PLAN.md
   - README.md
   - replit.md
