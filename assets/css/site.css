@@ -249,6 +249,29 @@ a:focus-visible {
   font-weight: 600;
 }
 
+.linkedin-link {
+  display: inline-flex;
+  width: 2.9rem;
+  min-height: 2.9rem;
+  align-items: center;
+  justify-content: center;
+  color: #0a66c2;
+  text-decoration: none;
+  transition: color 140ms ease, transform 140ms ease;
+}
+
+.linkedin-link svg {
+  display: block;
+  width: 1.8rem;
+  height: 1.8rem;
+  fill: currentColor;
+}
+
+.linkedin-link:hover {
+  color: #004182;
+  transform: translateY(-1px);
+}
+
 .quick-facts {
   display: flex;
   flex-wrap: wrap;
