@@ -13,8 +13,17 @@ permalink: /work-experience/
 
 ## Experience
 
+<section class="experience-entry" aria-labelledby="fermat-role">
+  <p class="entry-period">June 2026 — Present</p>
+  <h3 id="fermat-role">Product Go-to-Market</h3>
+  <p class="entry-organization">Fermat</p>
+  <ul>
+    <li>Product go-to-market work for Fermat.</li>
+  </ul>
+</section>
+
 <section class="experience-entry" aria-labelledby="haas-role">
-  <p class="entry-period">2024 — Present</p>
+  <p class="entry-period">2025 — Present</p>
   <h3 id="haas-role">MBA Candidate</h3>
   <p class="entry-organization">UC Berkeley, Haas School of Business</p>
   <ul>
@@ -24,7 +33,7 @@ permalink: /work-experience/
 </section>
 
 <section class="experience-entry" aria-labelledby="launch-factory-role">
-  <p class="entry-period">2018 — 2024</p>
+  <p class="entry-period">2018 — 2025</p>
   <h3 id="launch-factory-role">Product &amp; Strategy</h3>
   <p class="entry-organization">Launch Factory, venture studio</p>
   <ul>
